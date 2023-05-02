@@ -10,43 +10,22 @@
     "recipes_list": [
       {
         "name": "Grilled Salmon with Mango Salsa",
-        "image": "https://example.com/recipe1.jpg",
-        "ingredients": [
-          "salmon fillets",
-          "mango",
-          "red onion",
-          "jalapeno",
-          "lime juice",
-          "olive oil"
-        ],
+        "image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?size=626&ext=jpg",
+        "ingredients": "salmon fillets, mango ,red onion, jalapeno, lime juice, olive oil",
         "method": "1. Preheat grill to medium-high heat. 2. In a small bowl, combine mango, red onion, jalapeno, lime juice, and olive oil. 3. Season salmon fillets with salt and pepper. 4. Grill salmon for 5-6 minutes per side or until cooked through. 5. Serve with mango salsa on top.",
         "rating": 4.8
       },
       {
         "name": "Lemon Garlic Shrimp Scampi",
-        "image": "https://example.com/recipe2.jpg",
-        "ingredients": [
-          "shrimp",
-          "linguine",
-          "garlic",
-          "butter",
-          "lemon",
-          "parsley"
-        ],
+        "image": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141353.jpg?size=626&ext=jpg",
+        "ingredients": "shrimp, linguine, garlic, butter, lemon, parsley",
         "method": "1. Cook linguine according to package instructions. 2. Melt butter in a large skillet over medium heat. 3. Add garlic and cook until fragrant. 4. Add shrimp and cook until pink. 5. Add lemon juice and parsley. 6. Toss with cooked linguine.",
         "rating": 4.5
       },
       {
         "name": "Beef Stroganoff",
-        "image": "https://example.com/recipe3.jpg",
-        "ingredients": [
-          "beef sirloin",
-          "onion",
-          "garlic",
-          "mushrooms",
-          "sour cream",
-          "beef broth"
-        ],
+        "image": "https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?size=626&ext=jpg",
+        "ingredients": "beef sirloin, onion, garlic, mushrooms, sour cream, beef broth",
         "method": "1. Slice beef into thin strips. 2. In a large skillet, cook beef until browned. 3. Remove beef and set aside. 4. In the same skillet, cook onion and garlic until softened. 5. Add mushrooms and cook until tender. 6. Add beef broth and bring to a boil. 7. Reduce heat and simmer for 10 minutes. 8. Stir in sour cream and beef. 9. Serve over egg noodles.",
         "rating": 4.7
       }
@@ -63,42 +42,22 @@
     "recipes_list": [
       {
         "name": "Caprese Salad",
-        "image": "https://example.com/recipe4.jpg",
-        "ingredients": [
-          "tomatoes",
-          "mozzarella cheese",
-          "fresh basil",
-          "balsamic vinegar",
-          "olive oil"
-        ],
+        "image": "https://img.freepik.com/premium-photo/chicken-biriyani-using-jeera-rice-arranged-earthenware-with-raitha-grey-background_527904-8.jpg?size=626&ext=jpg",
+        "ingredients": "tomatoes, mozzarella cheese, fresh basil, balsamic vinegar, olive oil",
         "method": "1. Slice tomatoes and mozzarella cheese. 2. Layer tomatoes and mozzarella cheese on a platter. 3. Drizzle with balsamic vinegar and olive oil. 4. Garnish with fresh basil.",
         "rating": 4.6
       },
       {
         "name": "Quinoa Salad with Roasted Vegetables",
-        "image": "https://example.com/recipe5.jpg",
-        "ingredients": [
-          "quinoa",
-          "carrots",
-          "broccoli",
-          "red onion",
-          "garlic",
-          "olive oil"
-        ],
+        "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?size=626&ext=jpg",
+        "ingredients": "quinoa, carrots, broccoli, red onion, garlic, olive oil",
         "method": "1. Cook quinoa according to package instructions. 2. Roast carrots, broccoli, and red onion in the oven with garlic and olive oil. 3. Toss quinoa with roasted vegetables. 4. Serve cold.",
         "rating": 4.4
       },
       {
         "name": "Grilled Chicken with Mango Salsa",
-        "image": "https://example.com/recipe6.jpg",
-        "ingredients": [
-          "chicken breasts",
-          "mango",
-          "red onion",
-          "jalapeno",
-          "lime juice",
-          "olive oil"
-        ],
+        "image": "https://img.freepik.com/premium-photo/dum-handi-chicken-biryani-is-prepared-earthen-clay-pot-called-haandi-popular-indian-non-vegetarian-food_466689-52414.jpg?size=626&ext=jpg",
+        "ingredients": "chicken breasts, mango, red onion, jalapeno, lime juice, olive oil",
         "method": "1. Preheat grill to medium-high heat. 2. Season chicken breasts with salt and pepper. 3. Grill chicken for 6-7 minutes per side or until cooked through. 4. In a small bowl, combine mango, red onion, jalapeno, lime juice, and olive oil. 5. Serve chicken with mango salsa on top.",
         "rating": 4.5
       }
@@ -115,44 +74,22 @@
     "recipes_list": [
       {
         "name": "Roasted Vegetable Quinoa Bowl",
-        "image": "https://example.com/recipe7.jpg",
-        "ingredients": [
-          "quinoa",
-          "sweet potato",
-          "brussels sprouts",
-          "red onion",
-          "chickpeas",
-          "feta cheese",
-          "olive oil"
-        ],
+        "image": "https://img.freepik.com/premium-photo/dum-handi-chicken-biryani-is-prepared-earthen-clay-pot-called-haandi-popular-indian-non-vegetarian-food_466689-52414.jpg?size=626&ext=jpg",
+        "ingredients": "quinoa, sweet potato, brussels sprouts, red onion, chickpeas, feta cheese, olive oil",
         "method": "1. Preheat oven to 400°F. 2. Cut sweet potato and brussels sprouts into bite-sized pieces. 3. Toss vegetables with olive oil and roast for 20-25 minutes or until tender. 4. Cook quinoa according to package instructions. 5. In a large bowl, mix quinoa, roasted vegetables, chickpeas, and feta cheese.",
         "rating": 4.4
       },
       {
         "name": "Spinach and Feta Stuffed Chicken Breasts",
-        "image": "https://example.com/recipe8.jpg",
-        "ingredients": [
-          "chicken breasts",
-          "spinach",
-          "feta cheese",
-          "garlic",
-          "lemon juice",
-          "olive oil"
-        ],
+        "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?size=626&ext=jpg",
+        "ingredients": "chicken breasts, spinach, feta cheese, garlic, lemon juice, olive oil",
         "method": "1. Preheat oven to 375°F. 2. In a small bowl, mix together spinach, feta cheese, garlic, and lemon juice. 3. Cut a slit in the side of each chicken breast and stuff with spinach and feta mixture. 4. Brush chicken breasts with olive oil. 5. Bake for 25-30 minutes or until cooked through.",
         "rating": 4.8
       },
       {
         "name": "Vegetable Stir-Fry",
-        "image": "https://example.com/recipe9.jpg",
-        "ingredients": [
-          "broccoli",
-          "carrots",
-          "bell peppers",
-          "onion",
-          "garlic",
-          "soy sauce"
-        ],
+        "image": "https://img.freepik.com/premium-photo/chicken-biriyani-using-jeera-rice-arranged-earthenware-with-raitha-grey-background_527904-8.jpg?size=626&ext=jpg",
+        "ingredients": "broccoli, carrots, bell peppers, onion, garlic, soy sauce",
         "method": "1. Cut broccoli, carrots, bell peppers, and onion into bite-sized pieces. 2. Heat oil in a large skillet over medium-high heat. 3. Add garlic and stir for 30 seconds. 4. Add vegetables and stir-fry for 5-7 minutes or until tender-crisp. 5. Add soy sauce and stir to coat.",
         "rating": 4.3
       }
@@ -169,48 +106,22 @@
     "recipes_list": [
       {
         "name": "Beef Wellington",
-        "image": "https://example.com/recipe11.jpg",
-        "ingredients": [
-          "beef tenderloin",
-          "mushrooms",
-          "prosciutto",
-          "puff pastry",
-          "egg wash",
-          "salt",
-          "pepper"
-        ],
+        "image": "https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?size=626&ext=jpg",
+        "ingredients": "beef tenderloin, mushrooms, prosciutto, puff pastry, egg wash, salt, pepper",
         "method": "1. Preheat oven to 425°F. 2. Season beef tenderloin with salt and pepper. 3. Sear beef tenderloin in a hot skillet for 2-3 minutes on each side. 4. Set aside to cool. 5. In the same skillet, sauté mushrooms until they release their liquid. 6. Add prosciutto and continue to cook until the mixture is dry. 7. Roll out puff pastry and place the beef tenderloin in the center. 8. Spoon mushroom mixture over the beef tenderloin. 9. Fold puff pastry over the beef tenderloin and brush with egg wash. 10. Bake for 20-25 minutes or until the puff pastry is golden brown.",
         "rating": 4.9
       },
       {
         "name": "Braised Short Ribs",
-        "image": "https://example.com/recipe12.jpg",
-        "ingredients": [
-          "beef short ribs",
-          "red wine",
-          "beef broth",
-          "carrots",
-          "onion",
-          "garlic",
-          "thyme",
-          "bay leaves",
-          "salt",
-          "pepper"
-        ],
+        "image": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141353.jpg?size=626&ext=jpg",
+        "ingredients": "beef short ribs, red wine, beef broth, carrots, onion, garlic, thyme, bay leaves, salt, pepper",
         "method": "1. Preheat oven to 325°F. 2. Season beef short ribs with salt and pepper. 3. Sear beef short ribs in a hot skillet for 2-3 minutes on each side. 4. Remove short ribs from skillet and set aside. 5. Add carrots, onion, and garlic to the skillet and sauté until tender. 6. Add red wine, beef broth, thyme, and bay leaves. 7. Return short ribs to the skillet and bring to a simmer. 8. Cover and transfer to the oven. 9. Bake for 2-3 hours or until the meat is tender.",
         "rating": 4.7
       },
       {
         "name": "Grilled Lamb Chops",
-        "image": "https://example.com/recipe13.jpg",
-        "ingredients": [
-          "lamb chops",
-          "garlic",
-          "rosemary",
-          "olive oil",
-          "salt",
-          "pepper"
-        ],
+        "image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?size=626&ext=jpg",
+        "ingredients": "lamb chops, garlic, rosemary, olive oil, salt, pepper",
         "method": "1. Preheat grill to high heat. 2. Season lamb chops with salt and pepper. 3. In a small bowl, mix together garlic, rosemary, and olive oil. 4. Brush lamb chops with the garlic mixture. 5. Grill lamb chops for 3-4 minutes per side or until cooked to your desired doneness.",
         "rating": 4.9
       }
@@ -227,50 +138,22 @@
     "recipes_list": [
       {
         "name": "Roasted Salmon with Vegetables",
-        "image": "https://example.com/recipe14.jpg",
-        "ingredients": [
-          "salmon fillets",
-          "asparagus",
-          "zucchini",
-          "red onion",
-          "lemon",
-          "olive oil",
-          "salt",
-          "pepper"
-        ],
+        "image": "https://img.freepik.com/premium-photo/indian-hindu-veg-thali-food-platter-selective-focus_466689-35126.jpg?size=626&ext=jpg",
+        "ingredients": "salmon fillets, asparagus, zucchini, red onion, lemon, olive oil, salt, pepper",
         "method": "1. Preheat oven to 425°F. 2. Season salmon fillets with salt and pepper. 3. Place salmon fillets on a baking sheet. 4. In a separate bowl, mix together asparagus, zucchini, and red onion with olive oil, salt, and pepper. 5. Arrange the vegetables around the salmon fillets. 6. Slice lemon and place on top of the salmon and vegetables. 7. Bake for 12-15 minutes or until the salmon is cooked through.",
         "rating": 4.6
       },
       {
         "name": "Spaghetti Carbonara",
-        "image": "https://example.com/recipe15.jpg",
-        "ingredients": [
-          "spaghetti",
-          "bacon",
-          "eggs",
-          "parmesan cheese",
-          "garlic",
-          "salt",
-          "pepper"
-        ],
+        "image": "https://img.freepik.com/free-photo/chicken-steak-with-lemon-tomato-chili-carrot-white-plate_1150-25887.jpg?size=626&ext=jpg",
+        "ingredients": "spaghetti, bacon, eggs, parmesan cheese, garlic, salt, pepper",
         "method": "1. Cook spaghetti according to package instructions. 2. While the spaghetti is cooking, fry bacon in a hot skillet until crispy. 3. Remove bacon from skillet and chop into small pieces. 4. In a separate bowl, whisk together eggs, parmesan cheese, garlic, salt, and pepper. 5. Once the spaghetti is cooked, drain the water and add the spaghetti to the skillet with the bacon. 6. Pour the egg mixture over the spaghetti and bacon and stir until the eggs are cooked. 7. Serve immediately.",
         "rating": 4.3
       },
       {
         "name": "Mushroom Risotto",
-        "image": "https://example.com/recipe16.jpg",
-        "ingredients": [
-          "arborio rice",
-          "mushrooms",
-          "onion",
-          "garlic",
-          "white wine",
-          "chicken broth",
-          "parmesan cheese",
-          "butter",
-          "salt",
-          "pepper"
-        ],
+        "image": "https://img.freepik.com/premium-photo/indian-vegetable-pulav-biryani-made-using-basmati-rice-served-terracotta-bowl-selective-focus_466689-55615.jpg?size=626&ext=jpg",
+        "ingredients": "rice, mushrooms, onion, garlic, white wine, chicken broth, parmesan cheese butter, salt, pepper",
         "method": "1. In a hot skillet, sauté mushrooms until they release their liquid. 2. Remove mushrooms from skillet and set aside. 3. In the same skillet, sauté onion and garlic until tender. 4. Add arborio rice and stir until the rice is coated in the oil. 5. Add white wine and stir until the wine has been absorbed by the rice. 6. Add chicken broth one ladleful at a time, stirring constantly until each ladleful has been absorbed by the rice. 7. Continue adding chicken broth and stirring until the rice is cooked through. 8. Add mushrooms and parmesan cheese and stir until the cheese has melted. 9. Add butter and season with salt and pepper to taste. 10. Serve hot.",
         "rating": 4.8
       }
@@ -287,49 +170,22 @@
     "recipes_list": [
       {
         "name": "Thai Green Curry with Chicken",
-        "image": "https://example.com/recipe17.jpg",
-        "ingredients": [
-          "chicken",
-          "Thai green curry paste",
-          "coconut milk",
-          "bell pepper",
-          "bamboo shoots",
-          "basil",
-          "rice"
-        ],
+        "image": "https://img.freepik.com/premium-photo/indian-vegetable-pulav-biryani-made-using-basmati-rice-served-terracotta-bowl-selective-focus_466689-55615.jpg?size=626&ext=jpg",
+        "ingredients": "chicken, Thai green curry paste, coconut milk, bell pepper, bamboo shoots, basil, rice",
         "method": "1. Cook rice according to package instructions. 2. In a hot skillet, cook chicken until browned. 3. Add Thai green curry paste and stir until chicken is coated. 4. Add coconut milk and stir until combined. 5. Add sliced bell pepper and bamboo shoots and let simmer for 10 minutes. 6. Serve hot over rice and garnish with fresh basil.",
         "rating": 4.5
       },
       {
         "name": "Korean BBQ Beef",
-        "image": "https://example.com/recipe18.jpg",
-        "ingredients": [
-          "beef",
-          "soy sauce",
-          "brown sugar",
-          "sesame oil",
-          "garlic",
-          "ginger",
-          "green onion",
-          "rice"
-        ],
+        "image": "https://img.freepik.com/free-photo/chicken-steak-with-lemon-tomato-chili-carrot-white-plate_1150-25887.jpg?size=626&ext=jpg",
+        "ingredients": "beef, soy sauce, brown sugar, sesame oil, garlic, ginger, green onion, rice",
         "method": "1. Cook rice according to package instructions. 2. In a bowl, mix together soy sauce, brown sugar, sesame oil, minced garlic, minced ginger, and sliced green onion. 3. Slice beef into thin strips and marinate in the sauce for at least 30 minutes. 4. In a hot skillet, cook beef until browned. 5. Serve hot over rice.",
         "rating": 4.2
       },
       {
         "name": "Vietnamese Pho",
-        "image": "https://example.com/recipe19.jpg",
-        "ingredients": [
-          "beef broth",
-          "rice noodles",
-          "sirloin steak",
-          "bean sprouts",
-          "lime",
-          "basil",
-          "jalapeno",
-          "hoisin sauce",
-          "sriracha"
-        ],
+        "image": "https://img.freepik.com/premium-photo/indian-hindu-veg-thali-food-platter-selective-focus_466689-35126.jpg?size=626&ext=jpg",
+        "ingredients": "beef broth, rice noodles, sirloin steak, bean sprouts, lime, basil, jalapeno, hoisin sauce, sriracha",
         "method": "1. Cook rice noodles according to package instructions. 2. In a separate pot, bring beef broth to a simmer. 3. Slice sirloin steak into thin strips and add to the simmering broth. 4. Let simmer for 5 minutes. 5. Serve hot with rice noodles, bean sprouts, sliced jalapeno, fresh basil, lime wedges, hoisin sauce, and sriracha.",
         "rating": 4.7
       }
