@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://i.ibb.co/rc5wyRy/chef1.jpg",
     "name": "Chef John Doe",
     "experience": 10,
     "recipes": 50,
@@ -54,7 +54,7 @@
   },
   {
     "id": 2,
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://i.ibb.co/ZWBtPnv/chef2.jpg",
     "name": "Chef Jane Smith",
     "experience": 8,
     "recipes": 40,
@@ -106,7 +106,7 @@
   },
   {
     "id": 3,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://i.ibb.co/GkKD0Pv/chef4.jpg",
     "name": "Chef Emily Johnson",
     "experience": 7,
     "recipes": 75,
@@ -160,7 +160,7 @@
   },
   {
     "id": 4,
-    "picture": "https://example.com/chef4.jpg",
+    "picture": "https://i.ibb.co/56rRyQF/chef3.jpg",
     "name": "Chef Michael Lee",
     "experience": 15,
     "recipes": 150,
@@ -218,7 +218,7 @@
   },
   {
     "id": 5,
-    "picture": "https://example.com/chef5.jpg",
+    "picture": "https://i.ibb.co/fMPQwb7/chef5.jpg",
     "name": "Chef Maria Rodriguez",
     "experience": 10,
     "recipes": 80,
@@ -278,12 +278,12 @@
   },
   {
     "id": 6,
-    "picture": "https://example.com/chef6.jpg",
-    "name": "Chef David Nguyen",
+    "picture": "https://i.ibb.co/t3x3xQt/chef6.jpg",
+    "name": "Chef Jane Nguyen",
     "experience": 8,
     "recipes": 60,
     "likes": 8000,
-    "bio": "Chef David Nguyen is a rising star in the culinary world with a passion for Asian-inspired cuisine. He has spent the last 8 years honing his skills and developing unique flavor combinations that are sure to impress. His dishes are both visually stunning and incredibly delicious, and he takes great pride in using only the freshest ingredients.",
+    "bio": "Chef Jane Nguyen is a rising star in the culinary world with a passion for Asian-inspired cuisine. He has spent the last 8 years honing his skills and developing unique flavor combinations that are sure to impress. His dishes are both visually stunning and incredibly delicious, and he takes great pride in using only the freshest ingredients.",
     "recipes_list": [
       {
         "name": "Thai Green Curry with Chicken",
