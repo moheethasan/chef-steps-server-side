@@ -169,21 +169,21 @@
     "bio": "Chef Jane Nguyen is a rising star in the culinary world with a passion for Asian-inspired cuisine. He has spent the last 8 years honing his skills and developing unique flavor combinations that are sure to impress. His dishes are both visually stunning and incredibly delicious, and he takes great pride in using only the freshest ingredients.",
     "recipes_list": [
       {
-        "name": "Thai Green Curry with Chicken",
+        "name": "Green Curry with Chicken",
         "image": "https://img.freepik.com/premium-photo/indian-vegetable-pulav-biryani-made-using-basmati-rice-served-terracotta-bowl-selective-focus_466689-55615.jpg?size=626&ext=jpg",
         "ingredients": "chicken, Thai green curry paste, coconut milk, bell pepper, bamboo shoots, basil, rice",
         "method": "1. Cook rice according to package instructions. 2. In a hot skillet, cook chicken until browned. 3. Add Thai green curry paste and stir until chicken is coated. 4. Add coconut milk and stir until combined. 5. Add sliced bell pepper and bamboo shoots and let simmer for 10 minutes. 6. Serve hot over rice and garnish with fresh basil.",
         "rating": 4.5
       },
       {
-        "name": "Korean BBQ Beef",
+        "name": "BBQ Beef",
         "image": "https://img.freepik.com/free-photo/chicken-steak-with-lemon-tomato-chili-carrot-white-plate_1150-25887.jpg?size=626&ext=jpg",
         "ingredients": "beef, soy sauce, brown sugar, sesame oil, garlic, ginger, green onion, rice",
         "method": "1. Cook rice according to package instructions. 2. In a bowl, mix together soy sauce, brown sugar, sesame oil, minced garlic, minced ginger, and sliced green onion. 3. Slice beef into thin strips and marinate in the sauce for at least 30 minutes. 4. In a hot skillet, cook beef until browned. 5. Serve hot over rice.",
         "rating": 4.2
       },
       {
-        "name": "Vietnamese Pho",
+        "name": "Beef Pho",
         "image": "https://img.freepik.com/premium-photo/indian-hindu-veg-thali-food-platter-selective-focus_466689-35126.jpg?size=626&ext=jpg",
         "ingredients": "beef broth, rice noodles, sirloin steak, bean sprouts, lime, basil, jalapeno, hoisin sauce, sriracha",
         "method": "1. Cook rice noodles according to package instructions. 2. In a separate pot, bring beef broth to a simmer. 3. Slice sirloin steak into thin strips and add to the simmering broth. 4. Let simmer for 5 minutes. 5. Serve hot with rice noodles, bean sprouts, sliced jalapeno, fresh basil, lime wedges, hoisin sauce, and sriracha.",
