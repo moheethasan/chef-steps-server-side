@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "picture": "https://i.ibb.co/rc5wyRy/chef1.jpg",
-    "name": "Chef John Doe",
+    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg",
+    "name": "Thomas Keller",
     "experience": 10,
     "recipes": 50,
     "likes": 10000,
-    "bio": "Chef John Doe has been cooking for over 10 years and has a passion for creating new and exciting dishes. He has worked in some of the top restaurants around the world and has won numerous awards for his culinary skills.",
+    "bio": "Thomas Keller has been cooking for over 10 years and has a passion for creating new and exciting dishes. He has worked in some of the top restaurants around the world and has won numerous awards for his culinary skills.",
     "recipes_list": [
       {
         "name": "Grilled Salmon with Mango Salsa",
@@ -33,12 +33,12 @@
   },
   {
     "id": 2,
-    "picture": "https://i.ibb.co/ZWBtPnv/chef2.jpg",
-    "name": "Chef Jane Smith",
+    "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?size=626&ext=jpg",
+    "name": "Grant Achatz",
     "experience": 8,
     "recipes": 40,
     "likes": 8000,
-    "bio": "Chef Jane Smith is a talented chef with a love for fresh, local ingredients. She has worked in restaurants across the country and has a passion for creating healthy, flavorful dishes.",
+    "bio": "Grant Achatz is a talented chef with a love for fresh, local ingredients. She has worked in restaurants across the country and has a passion for creating healthy, flavorful dishes.",
     "recipes_list": [
       {
         "name": "Caprese Salad",
@@ -65,12 +65,12 @@
   },
   {
     "id": 3,
-    "picture": "https://i.ibb.co/GkKD0Pv/chef4.jpg",
-    "name": "Chef Emily Johnson",
+    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg",
+    "name": "David Chang",
     "experience": 7,
     "recipes": 75,
     "likes": 12000,
-    "bio": "Chef Emily Johnson has been cooking for 7 years and specializes in creating healthy and delicious meals. She has a passion for using fresh, locally sourced ingredients and loves to experiment with new flavors and techniques.",
+    "bio": "David Chang has been cooking for 7 years and specializes in creating healthy and delicious meals. She has a passion for using fresh, locally sourced ingredients and loves to experiment with new flavors and techniques.",
     "recipes_list": [
       {
         "name": "Roasted Vegetable Quinoa Bowl",
@@ -97,12 +97,12 @@
   },
   {
     "id": 4,
-    "picture": "https://i.ibb.co/56rRyQF/chef3.jpg",
-    "name": "Chef Michael Lee",
+    "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg",
+    "name": "Dominique Crenn",
     "experience": 15,
     "recipes": 150,
     "likes": 28000,
-    "bio": "Chef Michael Lee is a highly experienced chef with 15 years of experience. He is well-known for his culinary skills and has worked in some of the finest restaurants in the world. He loves to create dishes that are not only delicious but also visually appealing.",
+    "bio": "Dominique Crenn is a highly experienced chef with 15 years of experience. He is well-known for his culinary skills and has worked in some of the finest restaurants in the world. He loves to create dishes that are not only delicious but also visually appealing.",
     "recipes_list": [
       {
         "name": "Beef Wellington",
@@ -129,12 +129,12 @@
   },
   {
     "id": 5,
-    "picture": "https://i.ibb.co/fMPQwb7/chef5.jpg",
-    "name": "Chef Maria Rodriguez",
+    "picture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg",
+    "name": "Nancy Silverton",
     "experience": 10,
     "recipes": 80,
     "likes": 12000,
-    "bio": "Chef Maria Rodriguez is a talented chef with a passion for creating healthy and delicious meals. With 10 years of experience in the industry, she has developed a unique style that combines traditional and modern techniques. Her recipes are always a hit with her clients and she takes pride in using fresh and locally-sourced ingredients.",
+    "bio": "Nancy Silverton is a talented chef with a passion for creating healthy and delicious meals. With 10 years of experience in the industry, she has developed a unique style that combines traditional and modern techniques. Her recipes are always a hit with her clients and she takes pride in using fresh and locally-sourced ingredients.",
     "recipes_list": [
       {
         "name": "Roasted Salmon with Vegetables",
@@ -161,12 +161,12 @@
   },
   {
     "id": 6,
-    "picture": "https://i.ibb.co/t3x3xQt/chef6.jpg",
-    "name": "Chef Jane Nguyen",
+    "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-cap-posing-with-displeased-expression-green-wall-lady-work-food-cuisine-color_140725-26453.jpg?size=626&ext=jpg",
+    "name": "Mashama Bailey",
     "experience": 8,
     "recipes": 60,
     "likes": 8000,
-    "bio": "Chef Jane Nguyen is a rising star in the culinary world with a passion for Asian-inspired cuisine. He has spent the last 8 years honing his skills and developing unique flavor combinations that are sure to impress. His dishes are both visually stunning and incredibly delicious, and he takes great pride in using only the freshest ingredients.",
+    "bio": "Mashama Bailey is a rising star in the culinary world with a passion for Asian-inspired cuisine. He has spent the last 8 years honing his skills and developing unique flavor combinations that are sure to impress. His dishes are both visually stunning and incredibly delicious, and he takes great pride in using only the freshest ingredients.",
     "recipes_list": [
       {
         "name": "Green Curry with Chicken",
